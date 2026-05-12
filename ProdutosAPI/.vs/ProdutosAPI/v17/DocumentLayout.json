@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fic\\Desktop\\ProdutosAPI\\ProdutosAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83519297-6EFB-4188-84CE-78F423D62E04}|ProdutosAPI\\ProdutosAPI.csproj|c:\\users\\fic\\desktop\\produtosapi\\produtosapi\\produtosapi\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83519297-6EFB-4188-84CE-78F423D62E04}|ProdutosAPI\\ProdutosAPI.csproj|solutionrelative:produtosapi\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83519297-6EFB-4188-84CE-78F423D62E04}|ProdutosAPI\\ProdutosAPI.csproj|c:\\users\\fic\\desktop\\produtosapi\\produtosapi\\produtosapi\\services\\produtoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83519297-6EFB-4188-84CE-78F423D62E04}|ProdutosAPI\\ProdutosAPI.csproj|solutionrelative:produtosapi\\services\\produtoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83519297-6EFB-4188-84CE-78F423D62E04}|ProdutosAPI\\ProdutosAPI.csproj|c:\\users\\fic\\desktop\\produtosapi\\produtosapi\\produtosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83519297-6EFB-4188-84CE-78F423D62E04}|ProdutosAPI\\ProdutosAPI.csproj|solutionrelative:produtosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83519297-6EFB-4188-84CE-78F423D62E04}|ProdutosAPI\\ProdutosAPI.csproj|c:\\users\\fic\\desktop\\produtosapi\\produtosapi\\produtosapi\\repositories\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83519297-6EFB-4188-84CE-78F423D62E04}|ProdutosAPI\\ProdutosAPI.csproj|solutionrelative:produtosapi\\repositories\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83519297-6EFB-4188-84CE-78F423D62E04}|ProdutosAPI\\ProdutosAPI.csproj|c:\\users\\fic\\desktop\\produtosapi\\produtosapi\\produtosapi\\interfaces\\iprodutorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83519297-6EFB-4188-84CE-78F423D62E04}|ProdutosAPI\\ProdutosAPI.csproj|solutionrelative:produtosapi\\interfaces\\iprodutorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83519297-6EFB-4188-84CE-78F423D62E04}|ProdutosAPI\\ProdutosAPI.csproj|c:\\users\\fic\\desktop\\produtosapi\\produtosapi\\produtosapi\\domains\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83519297-6EFB-4188-84CE-78F423D62E04}|ProdutosAPI\\ProdutosAPI.csproj|solutionrelative:produtosapi\\domains\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83519297-6EFB-4188-84CE-78F423D62E04}|ProdutosAPI\\ProdutosAPI.csproj|c:\\users\\fic\\desktop\\produtosapi\\produtosapi\\produtosapi\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{83519297-6EFB-4188-84CE-78F423D62E04}|ProdutosAPI\\ProdutosAPI.csproj|solutionrelative:produtosapi\\.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83519297-6EFB-4188-84CE-78F423D62E04}|ProdutosAPI\\ProdutosAPI.csproj|c:\\users\\fic\\desktop\\produtosapi\\produtosapi\\produtosapi\\contexts\\produtocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83519297-6EFB-4188-84CE-78F423D62E04}|ProdutosAPI\\ProdutosAPI.csproj|solutionrelative:produtosapi\\contexts\\produtocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83519297-6EFB-4188-84CE-78F423D62E04}|ProdutosAPI\\ProdutosAPI.csproj|c:\\users\\fic\\desktop\\produtosapi\\produtosapi\\produtosapi\\.env.example||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{83519297-6EFB-4188-84CE-78F423D62E04}|ProdutosAPI\\ProdutosAPI.csproj|solutionrelative:produtosapi\\.env.example||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83519297-6EFB-4188-84CE-78F423D62E04}|ProdutosAPI\\ProdutosAPI.csproj|c:\\users\\fic\\desktop\\produtosapi\\produtosapi\\produtosapi\\produtosapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{83519297-6EFB-4188-84CE-78F423D62E04}|ProdutosAPI\\ProdutosAPI.csproj|solutionrelative:produtosapi\\produtosapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProdutoController.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\Desktop\\ProdutosAPI\\ProdutosAPI\\ProdutosAPI\\Controllers\\ProdutoController.cs",
+              "RelativeDocumentMoniker": "ProdutosAPI\\Controllers\\ProdutoController.cs",
+              "ToolTip": "C:\\Users\\fic\\Desktop\\ProdutosAPI\\ProdutosAPI\\ProdutosAPI\\Controllers\\ProdutoController.cs",
+              "RelativeToolTip": "ProdutosAPI\\Controllers\\ProdutoController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAUwEUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T18:32:53.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProdutoService.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\Desktop\\ProdutosAPI\\ProdutosAPI\\ProdutosAPI\\Services\\ProdutoService.cs",
+              "RelativeDocumentMoniker": "ProdutosAPI\\Services\\ProdutoService.cs",
+              "ToolTip": "C:\\Users\\fic\\Desktop\\ProdutosAPI\\ProdutosAPI\\ProdutosAPI\\Services\\ProdutoService.cs",
+              "RelativeToolTip": "ProdutosAPI\\Services\\ProdutoService.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwEUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T18:21:29.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProdutoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\Desktop\\ProdutosAPI\\ProdutosAPI\\ProdutosAPI\\Repositories\\ProdutoRepository.cs",
+              "RelativeDocumentMoniker": "ProdutosAPI\\Repositories\\ProdutoRepository.cs",
+              "ToolTip": "C:\\Users\\fic\\Desktop\\ProdutosAPI\\ProdutosAPI\\ProdutosAPI\\Repositories\\ProdutoRepository.cs",
+              "RelativeToolTip": "ProdutosAPI\\Repositories\\ProdutoRepository.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAA6wDkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T18:15:28.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProdutoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\Desktop\\ProdutosAPI\\ProdutosAPI\\ProdutosAPI\\Interfaces\\IProdutoRepository.cs",
+              "RelativeDocumentMoniker": "ProdutosAPI\\Interfaces\\IProdutoRepository.cs",
+              "ToolTip": "C:\\Users\\fic\\Desktop\\ProdutosAPI\\ProdutosAPI\\ProdutosAPI\\Interfaces\\IProdutoRepository.cs",
+              "RelativeToolTip": "ProdutosAPI\\Interfaces\\IProdutoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T18:13:17.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\Desktop\\ProdutosAPI\\ProdutosAPI\\ProdutosAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ProdutosAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\fic\\Desktop\\ProdutosAPI\\ProdutosAPI\\ProdutosAPI\\Program.cs",
+              "RelativeToolTip": "ProdutosAPI\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T17:08:38.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\Desktop\\ProdutosAPI\\ProdutosAPI\\ProdutosAPI\\Domains\\Produto.cs",
+              "RelativeDocumentMoniker": "ProdutosAPI\\Domains\\Produto.cs",
+              "ToolTip": "C:\\Users\\fic\\Desktop\\ProdutosAPI\\ProdutosAPI\\ProdutosAPI\\Domains\\Produto.cs",
+              "RelativeToolTip": "ProdutosAPI\\Domains\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T19:08:44.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProdutosAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\fic\\Desktop\\ProdutosAPI\\ProdutosAPI\\ProdutosAPI\\ProdutosAPI.csproj",
+              "RelativeDocumentMoniker": "ProdutosAPI\\ProdutosAPI.csproj",
+              "ToolTip": "C:\\Users\\fic\\Desktop\\ProdutosAPI\\ProdutosAPI\\ProdutosAPI\\ProdutosAPI.csproj",
+              "RelativeToolTip": "ProdutosAPI\\ProdutosAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-11T19:08:24.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProdutoContext.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\Desktop\\ProdutosAPI\\ProdutosAPI\\ProdutosAPI\\Contexts\\ProdutoContext.cs",
+              "RelativeDocumentMoniker": "ProdutosAPI\\Contexts\\ProdutoContext.cs",
+              "ToolTip": "C:\\Users\\fic\\Desktop\\ProdutosAPI\\ProdutosAPI\\ProdutosAPI\\Contexts\\ProdutoContext.cs",
+              "RelativeToolTip": "ProdutosAPI\\Contexts\\ProdutoContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T18:30:57.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": ".env.example",
+              "DocumentMoniker": "C:\\Users\\fic\\Desktop\\ProdutosAPI\\ProdutosAPI\\ProdutosAPI\\.env.example",
+              "RelativeDocumentMoniker": "ProdutosAPI\\.env.example",
+              "ToolTip": "C:\\Users\\fic\\Desktop\\ProdutosAPI\\ProdutosAPI\\ProdutosAPI\\.env.example",
+              "RelativeToolTip": "ProdutosAPI\\.env.example",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-11T18:22:05.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": ".env",
+              "DocumentMoniker": "C:\\Users\\fic\\Desktop\\ProdutosAPI\\ProdutosAPI\\ProdutosAPI\\.env",
+              "RelativeDocumentMoniker": "ProdutosAPI\\.env",
+              "ToolTip": "C:\\Users\\fic\\Desktop\\ProdutosAPI\\ProdutosAPI\\ProdutosAPI\\.env",
+              "RelativeToolTip": "ProdutosAPI\\.env",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABbAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJsSURBVDhPjZLNb4xRFMZ/5953TKefWkVUhaTVVCQqhLJDWEgkROwsJU1IaskC8RH/gJW1vaWtINFIlEhqgSI\u002Bog2qjbbGzLzvvedYvB0ZX4lnd26e\u002B9zfc3OEJV0cez54b6pyqxLpQ2P9\u002BA\u002B5wjKs9v16sXf49L09ZO7a5GTx/Nirs/ji/eZlSZ/GiBoENdTyS0Y\u002BRzM0BMwnx9O5112IiJubLawBuYLICo0RM1jelDDY1cyKpgQ1o\u002Bgdg13N9LQUMTNQkzhxd2v/6GjRAYhQM1UAUlX29C7nxsFNjAz1UM6UXWva83lLD2lU0NhmX2dudtSKve6XgksSAS/Clu5WSolj2\u002Bo2vAhOGjzgAf4a4ESYrwVKSY7e19HEYhpx0pCQf80/AoC5auDtQpXD/d2owfvFKr4RocH7h7wIXuDRp0WObVzFu4UqtaAU/ifAifDhW42HHxd5MD3P2PQ8dz985cnnbzz9Uv69BnLxwZsNajohIm0PpxeYrUSQfAecQFTDi\u002BSFAS8OYoo9vlOOldmhOoFz3kMMEFJcDPiYISEj0YDEDBczvAaIae6rE5y7P9nnvb/9amKi882Ll\u002B1RFTOjkHicCFlUEp\u002B/k2YBqVeoVcsxZkMuSZhR7MCL8fFnWq1A9TtaKTOyf5ijOzdzYt8ODm0d4MyRvbQQsWoZahWwvJS7vGtg4eru/pc\u002BKThEUGBlZwcD63roam\u002Bj1FSktbnEulXdDK5fS4iWb1q9AgBmsuPUpXHn/HaNgfaWEp2tLTgnRDUS50hDQNWY\u002BjKH8x7UylHD0M\u002Bo4ZMXRpDkupk6M0OXEBslgHMuJ1gK\u002BAGN2yIYQ90EwwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2026-05-11T18:14:39.804Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
