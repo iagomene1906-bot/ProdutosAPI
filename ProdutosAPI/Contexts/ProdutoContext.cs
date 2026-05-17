@@ -12,4 +12,5 @@ namespace ProdutosAPI.Contexts
         // DbSet -> "Crie uma tabela produtos na classe produtos"
         public DbSet<Produto> Produtos { get; set; }
     }
+
 }

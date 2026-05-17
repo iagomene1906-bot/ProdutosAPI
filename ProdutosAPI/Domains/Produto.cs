@@ -25,4 +25,5 @@ namespace ProdutosAPI.Domains
 
         public bool ativo { get; set; } = true;
     }
+
 }
