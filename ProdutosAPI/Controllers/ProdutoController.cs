@@ -47,6 +47,7 @@ namespace ProdutosAPI.Controllers
                 return Created();
                 // return StatusCode(201, "Produto cadastrado com sucesso");
             }
+
             catch (Exception erro)
             {
                 return BadRequest(erro.Message);
@@ -65,6 +66,7 @@ namespace ProdutosAPI.Controllers
                 _service.Atualizar(id, produto);
                 return Ok("Produto atualizado com sucesso.");
             }
+
             catch (Exception erro)
             {
                 return BadRequest(erro.Message);
@@ -80,10 +82,13 @@ namespace ProdutosAPI.Controllers
                 _service.Deletar(id);
                 return Ok("Produto removido com sucesso.");
             }
+
             catch(Exception erro)
             {
                 return NotFound(erro.Message);
             }
+
         }
+
     }
 }

@@ -35,7 +35,7 @@ namespace ProdutosAPI.Repositories
         {
             Produto? produto = BuscarPorID(id);
 
-            if(produto != null)
+            if(produto == null)
             {
                 throw new Exception("Produto não encontrado.");
             }
@@ -53,7 +53,7 @@ namespace ProdutosAPI.Repositories
         {
             Produto? produto = BuscarPorID(id);
 
-            if(produto != null)
+            if(produto == null)
             {
                 throw new Exception("Produto não encontrado.");
             }
