@@ -46,7 +46,7 @@ Diferente de soluções iniciais baseadas em arquivos locais (como JSON), este p
 ### Passos para rodar
 1. Clone este repositório:
 ```bash
-   git clone [https://github.com/iagomene1906-bot/ProdutosAPI.git](https://github.com/iagomene1906-bot/ProdutosAPI.git)
+   git clone https://github.com/iagomene1906-bot/ProdutosAPI.git
 ```
 2. Acesse a pasta do projeto através do terminal.
 3. Configure sua String de Conexão conforme o exemplo dentro da pasta.
