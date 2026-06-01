@@ -24,7 +24,7 @@ Diferente de soluções iniciais baseadas em arquivos locais (como JSON), este p
 * **C#**
 * **ASP.NET Core**
 * **Microsoft SQL Server** (Banco de dados relacional)
-* **Entity Framework Core** / **LINQ** (ou tecnologia de ORM/Acesso a dados que você utilizou)
+* **Entity Framework Core**
 * **Swagger** (Interface interativa para documentação e testes das rotas)
 
 ## 📍 Endpoints Principais
